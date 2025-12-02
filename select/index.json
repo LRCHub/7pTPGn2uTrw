@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "東雲メイズ",
+  "base_artist": "皆川溺",
+  "createdAt": "2025-12-02T19:06:35.962818Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東雲メイズ",
+      "artist": "皆川溺",
+      "has_synced": false,
+      "path": "select/pl_01_東雲メイズ_皆川溺.txt"
+    }
+  ]
+}
